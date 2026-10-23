@@ -4,7 +4,7 @@ Hydrological analysis and watershed delineation for Wadi Al-Disah, Tabuk, using 
 # Hydrological Analysis (Wadi Al-Disah, Tabuk)
 
 ## Overview
-A GIS study analyzing surface water flow and mapping the drainage basin for Wadi Al-Disah in Tabuk using DEM data[
+A GIS study analyzing surface water flow and mapping the drainage basin for Wadi Al-Disah in Tabuk using DEM data
 
 ## Workflow & Steps
 - **Data Collection:** Downloaded DEM data from USGS Earth Explorer
